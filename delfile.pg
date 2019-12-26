@@ -1,4 +1,5 @@
 import os 
+#PGM to del a file based on user input
 print ("Enter 'quit' for exiting the program") 
 filename = input('Enter the name of the file, that is to be deleted : ') 
 if filename == 'quit': 
