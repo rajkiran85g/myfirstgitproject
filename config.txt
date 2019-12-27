@@ -1,1 +1,2 @@
 #file with all configuration details
+# added second line in the file from remote repo
