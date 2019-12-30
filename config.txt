@@ -1,2 +1,3 @@
 #file with all configuration details
 # added second line in the file from remote repo
+# adding a line to demo poll SCM in jenkins
